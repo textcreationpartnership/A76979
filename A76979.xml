@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A holy life described and inforced on professors of Christianity, in a sermon / preached at Bishops-Castle in the County of Salop, Jan. 31. 1674/5 by Sam. Bolde Minister of Shapwick in Dorsetshire.</title>
+            <author>Bold, S. (Samuel), 1649-1737.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76979</idno>
+            <idno type="STC">Wing B3480A</idno>
+            <idno type="STC">ESTC R172812</idno>
+            <idno type="EEBO-CITATION">45504334</idno>
+            <idno type="OCLC">ocm 45504334</idno>
+            <idno type="VID">171634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171634)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2581:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A holy life described and inforced on professors of Christianity, in a sermon / preached at Bishops-Castle in the County of Salop, Jan. 31. 1674/5 by Sam. Bolde Minister of Shapwick in Dorsetshire.</title>
+                  <author>Bold, S. (Samuel), 1649-1737.</author>
+               </titleStmt>
+               <extent>[10], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hen. Brome,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Peter, 1st, I, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Holiness --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171634:1"/>
+            <pb facs="tcp:171634:1"/>
+            <p>A HOLY LIFE DESCRIBED, And inforced on Profeſſors of CHRISTIANITY, IN A SERMON Preached at BISHOPS-CASTLE in the County of SALOP, <hi>Jan.</hi> 31. 1674/5.</p>
+            <p>By SAM. BOLDE Miniſter of SHAPWICK in <hi>DORSETSHIRE.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Hen. Brome,</hi> 1675.</p>
+            <pb facs="tcp:171634:2"/>
+            <pb facs="tcp:171634:2"/>
+            <pb facs="tcp:171634:3"/>
+            <pb facs="tcp:171634:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:171634:4"/>
+            <pb facs="tcp:171634:4"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S it is not my deſign to endeavour the abuſe of your candor or credulity, by being ſo abſurd and uncivil as to ſtrive to impoſe on you a perſwaſion that the enſuing Sermon comes into the World onely to gratifie them whoſe importunate requeſts would not admit of a denial; or onely to teſtifie my obedience to the forcible commands of them, whoſe Authority might exact as much as Honeſty could grant; or to prevent ſome ſurreptitious and falſe Edition, (let thoſe who have theſe or the like occaſions to excuſe and patronize their appearing in Print, make the beſt uſe of them they can) for as I have none of theſe to Apologize for me, ſo I will not be ſo moroſe and humour<g ref="char:EOLhyphen"/>ſome as to expoſe it to a publick view, without giving an hint of what did induce, or rather force me to this publi<g ref="char:EOLhyphen"/>cation.</p>
+            <p>When the intreaties of ſome perſons had extorted from me a promiſe to preach in the place, and at the time the
+<pb facs="tcp:171634:5"/>Title-page doth inform you, I did reſolve to make uſe of the Sermon I had preached laſt amongſt them, to whom I am more eſpecially related in <hi>Dorſetſhire.</hi> And thus I thought I had no more to do, then to mention to thoſe who ſhould aſſemble there, what I had lately delivered to others in another place. But it ſeems the Sermon, or elſe ſome paſſages in the Sermon which take notice of the <hi>Vices</hi> of the <hi>Times,</hi> were ſo ill reſented on one hand, or ſo miſre<g ref="char:EOLhyphen"/>preſented on the other hand, or both, that it was not long before I met with a ſevere check and reproof for my pains, before ſome company, in a publick place, and from <hi>A worſhipful Iuſtice of the Peace.</hi> He was one who neither did live in the Pariſh, nor had heard the Sermon, but as it was related by one or two very in<g ref="char:EOLhyphen"/>conſiderable and impertinent perſons. I thought that perſon of quality had been ſo ingenuous that he would have been ſatisfied when he perceived I did diſown the expreſsions with which I was charged, becauſe I never uſed them, (though the expreſsions I think were warrantable enough) when I offered my Sermon to his peruſal, and freely pro<g ref="char:EOLhyphen"/>miſed to acknowledge my miſtake or error in the ſame Church, would he prove any expreſsion unfit to be uſed in the Pulpit. This ſeemed to appeaſe his fury for the preſent; a fair Copy he muſt have, which was in a ſhort time prepared for him. Nothing was objected againſt it (as I could hear) till ſuch time as it ſeems he was reſolved to quarrel whether he had cauſe for it or not.</p>
+            <p>After that I had ſome intentions to print the Sermon becauſe the report was ſpread abroad that it could not
+<pb facs="tcp:171634:5"/>be maintained; I did reſolve to forbear, till greater inci<g ref="char:EOLhyphen"/>vility did force me to let the World underſtand how un<g ref="char:EOLhyphen"/>reaſonably I was abuſed. One would think a Gentleman ſhould ſcorn to be uncivil; but there are ſome that pretend to Gentility, who do ſtrangely beſmear themſelves with very ungentile acts. If it were true that <hi>words are but wind,</hi> yet every one that hath experienced the latter clauſe of the Proverb, can certifie that <hi>blows prove un<g ref="char:EOLhyphen"/>kind.</hi>
+            </p>
+            <p>The Prophet <hi>Iſaiah</hi> informs us,<note place="margin">Iſa. 29.21.</note> that there were ſome who made a man an offender for a word, but now there is ſuch a complexion, that a man ſhall be made an offender, and puniſhed as ſuch, for the words he never ſpake. Did Gentility and Juſticeſhip direct to, and warrant ſuch things, the ingenious (I ſuppoſe) would deem it a privi<g ref="char:EOLhyphen"/>ledge to be exempted from both. Thoſe who are honeſt and ſober could not but wiſh they might be delivered from the cruel paws of them who were thus obliged, I do not in the leaſt queſtion but that both the forementioned par<g ref="char:EOLhyphen"/>ticulars do dictate more rational procedures. And I ve<g ref="char:EOLhyphen"/>rily believe that he is unfit to be eſteemed either Gentle<g ref="char:EOLhyphen"/>man or Juſtice, or elſe he acts as neither, who meaſures his <hi>Juſtice</hi> by the <hi>Will</hi> of his <hi>Miſtreſs,</hi> and takes an ac<g ref="char:EOLhyphen"/>count of his Gentility by the coſtly Paint, and the Ex<g ref="char:EOLhyphen"/>penſive Attire of his <hi>Whore.</hi> So unhappily are ſome worſhipful Titles diſpenced, that ſome men will claim them, who have little to deſerve them, but the Picture of an Anceſtor, and a little more then the name of an Eſtate, neither merited, nor purchaſed by themſelves; or the no<g ref="char:EOLhyphen"/>torious
+<pb facs="tcp:171634:6"/>expence of ſome <hi>Orphans Portion</hi> to amend the deformed face of a wanton <hi>Minion.</hi>
+            </p>
+            <p>Had I diſcourſed on ſome diſputable and controverſial Point, I could not have thought it ſtrange to have met with ſome oppoſition; I might with reaſon have expected that ſome one or other would have been diſpleaſed with me, becauſe I had not been of his perſuaſion. But when I onely treated on a ſubject which did tend to enforce the obſervance of thoſe Rules, which direct us to live better then thoſe who neither own a Saviour, nor think them<g ref="char:EOLhyphen"/>ſelves obliged to lay any reſtraint on their vicious incli<g ref="char:EOLhyphen"/>nations, I did not conjecture I ſhould meet with any one profeſsing Chriſtianity, who would quarrel with a Clergy<g ref="char:EOLhyphen"/>man becauſe he ſpake againſt <hi>Vice</hi> and would not applaud <hi>Debauchery.</hi>
+            </p>
+            <p>It has long ſince been obſerved that he who follows <hi>Truth</hi> too near the heels, had need take care leſt his teeth be daſhed out. I am ſure that now-a-days, he that ſpeaks againſt <hi>Vice</hi> has reaſon to think he ſcapes very well, if ſome Hectoring and Majeſtick <hi>Sir,</hi> does not on a falſe information labour to box his ears for his pains, eſpecially if he will not father every abſurd and ſpurious ſentence or word, ſuch an ones or his Informers malice dare adven<g ref="char:EOLhyphen"/>ture to charge him with.</p>
+            <p>The Pſalmiſt hath deciphered an untoward perſon,<note place="margin">Pſal. 55.21.</note> the <hi>words of</hi> whoſe <hi>mouth were ſmoother then Butter, but war was in his heart; whoſe words were ſofter then Oyl, yet were they drawn ſwords.</hi> Too many there are now who ſeem to be reſolved that the
+<pb facs="tcp:171634:6"/>preſent Age ſhall not be exempted from the like Mon<g ref="char:EOLhyphen"/>ſters.</p>
+            <p>In the Primitive Times none were to be acknowledged Chriſtians,<note place="margin">Ad Diog.</note> but thoſe who lived ſuitably to the Profeſsion they made. And <hi>Juſtin Martyr</hi> informs us that the Heathens who perſecuted and hated the Chriſtians, could not render any reaſon why they did ſo. And now it ſeems ſome who profeſs they are Chriſtians, will act like Hea<g ref="char:EOLhyphen"/>thens under that colour, towards thoſe that will not own that Chriſtianity allows men to be as bad as the Heathens were, or they can deſire to be.</p>
+            <p>Theſe are thoſe <hi>Gentile Creatures</hi> who admire none but perſons of very mean and baſe extractions, Perſons of no improvement, and as little reaſon: who intimate by their carriages and reſpects that they eſteem none per<g ref="char:EOLhyphen"/>ſons of worth, but ſuch as at their beſt are onely accom<g ref="char:EOLhyphen"/>pliſhed to rub the heels of a Horſe, who dare ſwear for a Glaſs of Wine that their Patrons are the greateſt Saints on Earth, becauſe their Devotions do all center at their <hi>Miſs.</hi> Theſe ſurely are they who think it below them to be honeſt, who conclude every one a <hi>Clown</hi> that will not drink the health of a <hi>Drab,</hi> and a ridiculous perſon who muſt make a pauſe before he proclaims to the World that he is a ſlave to one whoſe vileneſs may render her a Prodigie in Nature.</p>
+            <p>Prophane and debauched perſons cannot endure that their ſins ſhould be ſpoken againſt; whoever ſpeaks but an ordinary truth, muſt be thought one that diſreſpects their perſons. They are much of <hi>Ahabs</hi> mind,<note place="margin">1 King. 22.8.</note> 
+               <hi>they
+<pb facs="tcp:171634:7"/>hate them, for they do not ſpeak good unto them, but evil.</hi> None are fit to ſpeak before theſe Worthies, but thoſe who will ſew a Pillow under their Arm-holes, and daub with untempered Morter. They are well ac<g ref="char:EOLhyphen"/>quainted with <hi>Zedekiah's</hi> carriage, he that ſpeaks not to pleaſe them, ſhall be ſmote on the cheek by them. Theſe men by their actions ſeem deſirous to perſuade us to believe the Tranſmigration of ſouls; and that as to their own parts, they are Tygers and Goats inspired with their Pa<g ref="char:EOLhyphen"/>rents breath. Theſe are they who carry their Reaſon in their Scabbards, and have their Arguments at their fingers ends: who have made a foot-ball of their Reli<g ref="char:EOLhyphen"/>gion and Honeſty, and given their Strumpets leave to ſpurn it into the Confines of Forgetfulneſs: who drink as though they were reſolved to make their ſouls ſops for the Devil: who live as though it were an Article of their Creed, to believe that there is greater happineſs in the Embraces of a <hi>Courtezan,</hi> then in the enjoyment of God Almighty: who talk as though they thought it their greateſt Rhetorick to rail at the Miniſtry. Their ſpeech does pleaſe them beſt, when they tell, their Compa<g ref="char:EOLhyphen"/>nions, they hate the Cloth becauſe the Clergy does wear it: who can laugh till their ſides ake, when they or their Paraſites ſtrain to mention them with a term of diſgrace. Theſe are ſurely our Pert ones, who think they are Gentlemen, becauſe they can look big, walk with ſtate, wear a Dagger by their ſides, drink profoundly, and love a Wench better then their Wives. From theſe and the like we may well pray, <hi>Good Lord deliver us.</hi>
+            </p>
+            <pb facs="tcp:171634:7"/>
+            <p>I appeal to all the intelligent perſons who heard me preach, whether the following Sermon be not a punctual account of what was ſpoken in the Pulpit.</p>
+            <p>I wiſh no worſe to all who are diſpoſed to quarrel at the Sermon, or with its Compoſer, then that they may know themſelves, love, honour, and ſerve their Maker; let Reaſon have its due, value their ſouls aright, profeſs more, and live better.</p>
+            <p>And now Reader, no more is requeſted, but that you will read without prejudice and judge as you ſhall find cauſe, by him who is</p>
+            <closer>
+               <signed>Yours to ſerve you <hi>SAM. BOLDE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:171634:8"/>
+            <pb n="1" facs="tcp:171634:8"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 PET. 1.15.</hi>
+                  </bibl>
+                  <p>But as he which hath called you is holy, ſo be ye holy in all manner of Conver<g ref="char:EOLhyphen"/>ſation.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>E may eaſily conjecture that matters of extraordinary importance, will oblige us to an inquiry after the moſt expedient methods, in order to our ſecuring our own intereſts in them. And there being nothing that in rea<g ref="char:EOLhyphen"/>ſon ſhould have an influence equally effectual on mans affections, with that ſalvation which the preceding part of this Chapter re<g ref="char:EOLhyphen"/>preſents, both as noble for its Author, eminent for its Nature, and very worthy on the account of its tranſcen<g ref="char:EOLhyphen"/>dent and wonderful Diſcovery. Our Apoſtle thinks it is fit to prevent Enquiries, by an immediate diſcovery of what will infallibly lead to the fruition of it.</p>
+            <p>In the Text you have an account of that deportment which doth beſt become Chriſtians, doth moſt ſuit with their Profeſſion, and will moſt conduce to the ſalva<g ref="char:EOLhyphen"/>tion of their Souls.</p>
+            <list>
+               <item>There is firſt a Duty enjoyned. <hi>Be ye holy.</hi>
+               </item>
+               <item>Then the extent of that Duty. <hi>In all manner of con<g ref="char:EOLhyphen"/>verſation.</hi>
+               </item>
+               <item>And laſtly, the Reaſon (as ſome conceive) to enforce the performance. <hi>Becauſe he which hath called you is holy.</hi>
+               </item>
+            </list>
+            <pb n="2" facs="tcp:171634:9"/>
+            <p>But (as I conjecture) the degree of holineſs we ſhould aim at, as much as may be, to reſemble the holineſs of him which hath called us.</p>
+            <p>It concerns the Profeſſors of Chriſtianity to demean themſelves ſuitably to that Profeſſion they make, or to what they be called. There ought to be a great diffe<g ref="char:EOLhyphen"/>rence betwixt the behaviours of men when they come to know and own the Doctrines of the Goſpel, and what they were whileſt they faſhioned themſelves according to thoſe luſts which domineer'd in their ignorance, as the Apoſtle ſpeaks in the 14. Verſe of this Chapter.</p>
+            <p>When I have diſcourſed of the Import of a perſons be<g ref="char:EOLhyphen"/>ing holy, and have mentioned the obligations which do more eſpecially enforce a holy converſation on the Pro<g ref="char:EOLhyphen"/>feſſors of Chriſtianity, I will proceed to enquire into the Extent of the Duty; that being the ſecond particular the Text doth afford.</p>
+            <p>I will neither trouble you nor my ſelf with a particular enumeration of thoſe various and fond notions, which men of different perſwaſions have broached, when they have undertaken to certifie the World of the true mean<g ref="char:EOLhyphen"/>ing of a perſons being holy. Some of them either have framed very odd conceits, or elſe they have ſeemed to pleaſe themſelves with what they have judged a Sancti<g ref="char:EOLhyphen"/>monious phraſe in their diſcoveries. I leave theſe canting and wordy perſons to ruminate on their own language hoping that time will make them out of love with ſuch unintelligible Gibberiſh.</p>
+            <p>A perſons being holy (if I miſtake not) doth note his peculiar demeanour, which diſtinguiſheth him from men of looſer principles, and which explains to others his rea<g ref="char:EOLhyphen"/>dineſs to ſtrive after a greater exactneſs in his conformity to Gods will. In the 20. of <hi>Leviticus</hi> and the 24. verſe we have God himſelf giving us the deſcription of a holy people by their ſeparation. <hi>I am the Lord your God which have ſeparated you from other people, and ye ſhall <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:171634:9"/>holy unto me, for I the Lord am holy, and have ſevered you from other people that ye ſhould be mine.</hi> The learned <hi>Mede</hi> tells us, that Holineſs conſiſts in diſcretion, and diſtinction from other things by way of exaltation, and prehemi<g ref="char:EOLhyphen"/>nence.</p>
+            <p>Thoſe who can jollily take the liberty to be debauch<g ref="char:EOLhyphen"/>ed, do (indeed) difference themſelves from men of ano<g ref="char:EOLhyphen"/>ther ſtrain; but this diſtinction is not any mark of their holineſs, though holineſs do neceſſarily require a diſcri<g ref="char:EOLhyphen"/>mination. For that appropriatedneſs in a mans demea<g ref="char:EOLhyphen"/>nour which doth betoken his Piety, is ſuch as doth be<g ref="char:EOLhyphen"/>come remarkable on the account of its eminency or con<g ref="char:EOLhyphen"/>formity to rule.</p>
+            <p>For any one to be holy, is as much as to reſign himſelf to an endeavour, as much as may be, to reſemble Gods perfections. This cannot but expreſs it ſelf chiefly by laying a reſtraint on all the extravagant propenſities he ſhall diſcern in himſelf, by denying admittance to the ſug<g ref="char:EOLhyphen"/>geſtions of Satan, by not allowing any temptations to maſter him, and by diſpoſing and inciting him to Reli<g ref="char:EOLhyphen"/>gious duties, Spiritual exerciſes, Righteous dealings, and Temperate uſages.</p>
+            <p>I would not be miſtaken by any when I deſcribe a per<g ref="char:EOLhyphen"/>ſons holineſs by his demeanour, as though I meant that holineſs did conſiſt meerly in ſome outward acts, for it doth principally conſiſt in the frame of the heart, and the inward temper of the perſon.</p>
+            <p>To prevent that idle and eaſie excuſe men are apt to make for their miſcarriages, <hi>viz.</hi> that their hearts are as good as the beſt, though (it may be) their actions and lives are very little better then thoſe of the worſt. It may be requiſite to delineate holineſs in its peculiar, though outward dreſs. There cannot be a commenda<g ref="char:EOLhyphen"/>ble temper in the perſon, but it will expreſs it ſelf by thoſe worthy acts which be the genuine off-ſprings of ſo refined a ſpirit.</p>
+            <pb n="4" facs="tcp:171634:10"/>
+            <p>It will appear,</p>
+            <p n="2">2. That Holineſs or a godly converſation is variouſly enforced on all who profeſs Chriſtianity, if you obſerve its agreement with the divine nature. The advantages which Chriſtians have above others in order to their be<g ref="char:EOLhyphen"/>ing holy; the import of their Profeſſion; and the more remarkable deſtructiveneſs of impiety to ſuch preten<g ref="char:EOLhyphen"/>ders.</p>
+            <p n="1">1. Its agreement with the Divine Nature. No Argu<g ref="char:EOLhyphen"/>ment was ſtrong enough to perſwade our firſt Parents in their innocency to offend, but that which came masked with a pretence to make them more eminent reſemblers of a Deity. If a devilliſh Impoſture did at firſt ruine us, when conveighed under a godly Vizard, what ſhould hinder but that the truth of what was then onely preten<g ref="char:EOLhyphen"/>ded, ſhould make us vigorous in the purſuit of our reco<g ref="char:EOLhyphen"/>very by the ſame means? It would be the beſt uſe we could make of Satans treachery to worſt him and ſave our ſelves by the right management of his own weapon. Could we argue our ſelves into holineſs by reaſon of its tendency to promote Gods Image in our ſouls, we ſhould greatly improve our ſelves, we ſhould baffle Satan at his own Topick. When malice and envy had wracked the penetrating intellects of the fallen Spirits to make choice of the moſt plauſible motive, with which they might pre<g ref="char:EOLhyphen"/>vail with mans unerring nature to diſobey; this being pitched on, was deemed without doubt, the moſt pro<g ref="char:EOLhyphen"/>bable to effect the deſign. Innocency not ſuſpecting the faireſt offers, might be entrapped moſt eaſily with a diſ<g ref="char:EOLhyphen"/>guiſe; but when falſhood does not lye in the bottom, only Truth appears in its own garb (one would think) it ſhould then be moſt attractive.</p>
+            <p>Thoſe diſcoveries which our ſhallow capacities do ad<g ref="char:EOLhyphen"/>mit of a Deity, certifie that holineſs is moſt explicative of it. If the moſt rude and barbarous explain the appre<g ref="char:EOLhyphen"/>henſions they have of a God, their account will be, that
+<pb n="5" facs="tcp:171634:10"/>he is holy. Thoſe who can own any thing at randome for their God, will notwithſtanding, aſcribe to him an in<g ref="char:EOLhyphen"/>communicable eminency, and a tranſcendent ſanctity. And men of all ſorts and perſwaſions can ſtrive to over<g ref="char:EOLhyphen"/>vote one another with the moſt ſounding acknowledg<g ref="char:EOLhyphen"/>ments that God is holy.</p>
+            <p>That man muſt be more then ignorant, who has converſed with the Scripture, and will not own that God has placed his Image in holineſs; and that the only way by which we can attain to reſemble his perfections, is to be renewed in holineſs and righteouſneſs. Whether this do not oblige them who profeſs Chriſtianity to be holy, I will reſign to your free and ingenuous determina<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="2">2. The advantages which Chriſtians have above others in order to their being holy. The increaſe of helps doth add much to the obligation to performance. He that lies under an equal obligation with others to any concern, may with reaſon conclude, that it is his duty as well as his intereſt to improve more propitious opportunities in or<g ref="char:EOLhyphen"/>der to his acquitting himſelf commendably in them.</p>
+            <p>There can be no diſpute about the certainty of mens being engaged in general, to abſtain from groſs enormi<g ref="char:EOLhyphen"/>ties, yea from whatever is any way diſpleaſing to their God, and injurious to their ſouls, unleſs ſuch an one ſhould interpoſe, whoſe improvement in vice, were enough to make Impudence it ſelf bluſh.</p>
+            <p>Who, or where is the man who dares deny the obliga<g ref="char:EOLhyphen"/>tion to be as univerſal as mankind, to withhold our hands from robbing our neighbours, ſlaying our friends, and murdering our parents? Who doubts of all mens being obliged to abſtain from Whoredom, Drunkenneſs, and ſuch miſcarriages? No man will ſcruple matters atten<g ref="char:EOLhyphen"/>ded with ſuch notable evidence, unleſs it be one whoſe accuſtomary concernedneſs in Vice, has either benighted his underſtanding, or elſe perſwaded him to believe that
+<pb n="6" facs="tcp:171634:11"/>his honour does require him to vindicate what he has done, though he would have condemned it in another for a miſdemeanour, had not his own example made it authentick.</p>
+            <p>If all men in general are obliged to a careful and ob<g ref="char:EOLhyphen"/>ſervant demeanour, without doubt the Profeſſors of Chriſtianity are much more obliged.</p>
+            <p>They have the advantage above others to know more diſtinctly what things are obliging, and what are not.</p>
+            <p>They have more perſwading Arguments to enforce on themſelves.</p>
+            <p>They have greater aſſurance of aſſiſtance and relief.</p>
+            <p>They have a more full and certain rule for the gui<g ref="char:EOLhyphen"/>dance of their lives by.</p>
+            <p>And they have their own voluntary obligations, the reſult of their profeſſion, which bind them to a more worthy deportment then other perſons.</p>
+            <p n="3">3. The Import of their Profeſſion. The very Pro<g ref="char:EOLhyphen"/>feſſion of Chriſtianity doth oblige men to renounce eve<g ref="char:EOLhyphen"/>ry ſin, and to lead a holy life.</p>
+            <p>Whoever he be, that either calls himſelf, or allows others to term him a Chriſtian, and ſtrives not to abſtain from every ſin, and to behave himſelf in his ſeveral affairs and concerns, godly, righteouſly, and ſoberly, is as great an offender (I think) as he who makes it his buſineſs to poyſon the Air he breaths in with the moſt open and hor<g ref="char:EOLhyphen"/>rid blaſphemies, or with the moſt prodigious execrations and makes no Religious pretences.</p>
+            <p>That you may not think me over-impudent in beg<g ref="char:EOLhyphen"/>ging the Queſtion, I will briefly give you an account of what the profeſſion of Chriſtianity doth mean, from whence you may with eaſe conclude, that that Profeſſion doth indiſpenſably oblige to a holy life.</p>
+            <p>The Profeſſion of Chriſtianity doth note the reſigna<g ref="char:EOLhyphen"/>tion of our ſelves to be commanded by Chriſt, and to be imitators of Chriſt. By having his name called on us
+<pb n="7" facs="tcp:171634:11"/>we certifie the World that we own his commands to be obliging. We profeſs we will ſubſcribe to the Doctrine of the Goſpel, and that we will anſwer the deſign of our Saviours life, ſufferings, and death.</p>
+            <p>The great duty he enjoyns us, is to take care that both our ſouls and our bodies may be preſerved pure,<note place="margin">2 Cor. 7.1.</note> and un<g ref="char:EOLhyphen"/>blameable; and that we cleanſe our ſelves from all filthi<g ref="char:EOLhyphen"/>neſs both of fleſh and ſpirit, yea that we ſtrive to perfect holineſs in the fear of God.</p>
+            <p>The Doctrine of the Goſpel, take it which way you will, doth onely teach us this Leſſon, <hi>viz. To be holy in all manner of Converſation.</hi> And whoever does ſubſcribe to that, is concerned to be as good as his word, or elſe it will be time for him to quit the name of an honeſt man.</p>
+            <p>The encouragements which are laid down in the Go<g ref="char:EOLhyphen"/>ſpel, aim at the more effectual incitement of us to the diſcharge of this duty. The diſſwaſives do all center at the very ſame point.</p>
+            <p>The Preſidents and Examples of one kind or of another, do deſign the more eminent advancement of our pra<g ref="char:EOLhyphen"/>ctice, by an exemplary warning of us to eſchew thoſe miſcarriages that our own propenſities, or external al<g ref="char:EOLhyphen"/>lurements might hazard our ſliding into; and by a happy directing us to detain our ſelves and our ſeveral exer<g ref="char:EOLhyphen"/>tions, within the Confines of morality and Chriſtianity.</p>
+            <p>What you would have for a more clear diſcovery of this I know not, unleſs you would exact the Expoſtu<g ref="char:EOLhyphen"/>lations and the Sighs of a compaſſionate Saviour, when any perſons do appear refractory. And whoever con<g ref="char:EOLhyphen"/>ſults the Goſpel, will find a plenary ſatisfaction as to this particular.</p>
+            <p>St. <hi>Paul</hi> in the ſecond Chapter of his Epiſtle to <hi>Titus,</hi> and the 14. Verſe, doth aſſure us that the deſign of our Saviours life, ſufferings, and death, was to deſtroy our <hi>corruptions, and to purifie us to himſelf a peculiar people, zea<g ref="char:EOLhyphen"/>lous of good works.</hi>
+            </p>
+            <pb n="8" facs="tcp:171634:12"/>
+            <p>If we acknowledge and own theſe things, we are concerned to walk circumſpectly and to be careful that the tenor of our lives may bear a correſpondency with the Import of our Profeſſion. How can we be debauched under the Profeſſion of the Chriſtian Faith, but we muſt confirm that aſperſion which intitled our Saviour a Wine-biber, or a Drunkard? Can we be proud or cruel, paſſionate or revengeful, and yet imagine that we believe the Goſpel and that we follow the ſpotleſs example of our Saviour? Chriſtianity doth oblige us to the conſtant amendment of our lives according to the directions of the Goſpel, and the faultleſs pattern of the Holy Jeſus.</p>
+            <p n="4">4. The more remarkable deſtructiveneſs of Impiety to ſuch pretenders. Impiety can befriend no man, but it will be moſt diſpleaſing in its conſequences to them who pretend beſt. God wil call the Heavens to attend, the Earth muſt hear when <hi>Iſrael</hi> will not know,<note place="margin">Iſa. 1.23.</note> when his people will not conſider.</p>
+            <p>When a difference in circumſtances doth augment the ſin, Juſtice cannot admit of an equality in the pu<g ref="char:EOLhyphen"/>niſhment. He who diſobeys wilfully muſt have many ſtripes for his correction,<note place="margin">Luke 12.46.</note> when his offending partner miſcarrying more ignorantly, ſhall ſuffer but a few.</p>
+            <p>It is not a bare profeſſion that makes men really good in Gods eſteem: whileſt men have ſo little of Chriſtia<g ref="char:EOLhyphen"/>nity, as that they will adventure to maintain, and converſe with their Minions, will be drunk for company, will oppreſs and grind the faces of the Poor, and commit the like offences. The profeſſion of Chriſtianity with which they would flatter themſelves into a good and leaſant opinion concerning themſelves, doth ſerve to no other purpoſe, then to poſt them more unconcer<g ref="char:EOLhyphen"/>nedly to their own deſtruction. He who obeys God ſincerely, is the perſon who ſecures himſelf from that vengeance which will overtake the meer Profeſſor
+<pb n="9" facs="tcp:171634:12"/>with a witneſs. St. <hi>Peter</hi> tells us,<note place="margin">2 Pet. 2.21.</note> 
+               <hi>It were better for us not to have known the way of righteouſneſs, then after we have known it, to turn from the holy commandment deli<g ref="char:EOLhyphen"/>vered unto us.</hi> Impiety under a Religious Mask, doth ſeal ruine irrevocably to its Patron.</p>
+            <p n="2">2. We are now to conſider the Extent of this Duty: <hi>In all manner of converſation.</hi> The Profeſſors of Chri<g ref="char:EOLhyphen"/>ſtianity ſhould take a care that their ſeveral behaviours, and in their different capacities, be rendred comely, by a ſuitableneſs to that Profeſſion they make.</p>
+            <p>The profeſſion of Chriſtianity does not only oblige us to abſtain from the groſs enormities of them who can perſwade themſelves to believe it is a priviledge to have their Baſtards bend their knees and ask them bleſſing;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Macar. Homil. <hi>3.</hi>
+               </note> or of thoſe who waſte their Time and their Eſtates by an unneceſſary continuance in Taverns and Ale-houſes who drink till their heads are ſo diſtempered, that they make the very ſtones in the ſtreets become their Pil<g ref="char:EOLhyphen"/>lows; or of thoſe who Emboſs every ſentence they ſpeak, with a <hi>God damn them;</hi> or who think they can ſay but little to the purpoſe, unleſs they can frame each ſyllable (almoſt) to bid their Maker defiance. The pro<g ref="char:EOLhyphen"/>feſſion of Chriſtianity (I ſay) does not onely oblige us to abſtain from theſe, and ſuch prodigious offences, but alſo from many of thoſe particulars which be gene<g ref="char:EOLhyphen"/>rally accounted trifles, and very pardonable. The more we profeſs, the better we ſhould be in all circumſtances. I wiſh heartily that they would better digeſt this truth, who think themſelves too good, and too holy to think well of our <hi>Engliſh Conformity.</hi> And that thoſe who fancie it too defiling a buſineſs to ſpeak a favourable word of our Government, Diſcipline, and Service, would learn to be more clear from Diſobedience to the lawful and warrantable, Religious and commendable Praeſcripts and Inſtitutions of their lawful and godly Su<g ref="char:EOLhyphen"/>periours and Governours; from lying, back-biting, cheat<g ref="char:EOLhyphen"/>ing,
+<pb n="10" facs="tcp:171634:13"/>and what are too generally accounted <hi>Peccadilloes,</hi> then thoſe who be of the other perſwaſion.</p>
+            <p>Though ſingularity, when rightly applyed, is an aſper<g ref="char:EOLhyphen"/>ſion that leaves a very foul ſtain behind it, yet a reſtrained and ſingular deportment properly conſidered, is ſo far from being any ones blemiſh, that it is his greateſt glory and beauty.</p>
+            <p>Men may be ('tis true) and uſually are ſcoffed at by a generation of Monſters, becauſe their behaviours are different from theirs, and by that means more becom<g ref="char:EOLhyphen"/>ing Chriſtianity. And the prophaneneſs of theſe late Times hath promoted impiety to ſuch an height, that a holy converſation, and ſo Religion it ſelf, are made the great, or rather the onely objects for wanton wits to try their Mettle on. Thoſe who are ſtupid to admiration, when otherwiſe concerned, muſt be cried up, and applauded for the moſt ingenuous perſons, and greateſt wits, meer<g ref="char:EOLhyphen"/>ly becauſe they can curſe, ſwear, and damn; becauſe they can talk obſcenely, and act irregularly; becauſe they can flirt at Religion, and jear at the regular de<g ref="char:EOLhyphen"/>meanors of them, who have digeſted the principles of Chriſtianity.</p>
+            <p>All this proceeds from the diſſoluteneſs of mens lives and their unwillingneſs to be reſtrained and tied up by the injunctions and rules of what they may term a ſevere holineſs. We are not to regard the ex<g ref="char:EOLhyphen"/>travagant and harſh expreſſions of them who have byaſſed their Judgments by their Humours; but we ſhould rather incite our ſelves from thence to a more diligent obſervance of what St. <hi>Paul</hi> ſaith, when he di<g ref="char:EOLhyphen"/>rects us, <hi>Whether we eat or drink, or whatever we do, to do all to the glory of God.</hi>
+            </p>
+            <p>Though I might much enlarge my diſcourſe by giving an account of what deportments according to the diverſity of mens conditions, would moſt approve their piety to God, yet I will confine my ſelf (to prevent te<g ref="char:EOLhyphen"/>diouſneſs)
+<pb n="11" facs="tcp:171634:13"/>and but briefly mention how we ought more eſpecially to demean our ſelves in theſe following inſtan<g ref="char:EOLhyphen"/>ces.</p>
+            <p n="1">1. In our Religious Exerciſes.</p>
+            <p n="2">2. In our ordinary imployments.</p>
+            <p n="3">3. In our common converſe.</p>
+            <p n="4">4. Under the variety of providential adminiſtra<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="5">5. In the general courſe of our lives.</p>
+            <p n="1">1. An holy awe and reverent reſpect to God and our ſouls, ſhould ever attend us in our religious affairs; our greateſt concernedneſs ſhould expreſs it ſelf principally on thoſe occaſions which do preſent us with the moſt convenient opportunities to teſtifie our due reſentment of Gods favours, and the true value we ſet on our own better part.</p>
+            <p>In the ſeveral particulars in which Religion doth branch forth its Exerciſes, we ought to manifeſt ſuch a poſture of Soul, as is correſpondent. For though ho<g ref="char:EOLhyphen"/>lineſs be ever one and the ſame, yet it doth diverſifie its acts according to the alteration of the perſons condi<g ref="char:EOLhyphen"/>tion or duty.</p>
+            <p>When we addreſs our ſelves to God by a Religious preſenting our Petitions to him, we ought to accompa<g ref="char:EOLhyphen"/>ny our approach with the greateſt humility and ſelf abaſement, yet with the moſt importunate and earneſt reverence. In our entreaties for theſe inferiour matters with the trueſt ſubmiſſion and reſignation.</p>
+            <p>In our Praiſes we muſt principally expreſs our grati<g ref="char:EOLhyphen"/>tude for ſpiritual bleſſings; and we muſt learn to aſcribe them, and all our other enjoyments, to the free good<g ref="char:EOLhyphen"/>neſs of him who gave them.</p>
+            <p>In hearing the Word, and attending on God in his other Ordinances, we muſt keep our hearts, thoughts, and affections, within the encloſures our Religion hath appointed them; we ſhould ſtrive ſuitably to anſwer
+<pb n="12" facs="tcp:171634:14"/>the deſign of ſuch Inſtitutions. The ſenſe of our wants ſhould affect our hearts, the enjoyment of ſuch means and advantages ſhould exhilerate our ſpirits. Our de<g ref="char:EOLhyphen"/>ſires ſhould be much enlarged after the receit of what was intended in the appointment, and what is promiſed to the right performance. We ſhould treaſure up truths in our breaſts, and we ſhould intimate the genuine en<g ref="char:EOLhyphen"/>tertainment we give them, by the conformity of our lives to them.</p>
+            <p n="2">2. We ſhould behave our ſelves in our ordinary im<g ref="char:EOLhyphen"/>ployments with a freedom from over-troubleſome and diſquieting thoughts and cares. We muſt ſtrive to ma<g ref="char:EOLhyphen"/>nage our concerns with prudence and diſcretion. We muſt keep theſe in a due ſubordination to more noble objects. We muſt ſtrive to abſtain from thoſe miſcar<g ref="char:EOLhyphen"/>riages, which too commonly attend perſons ſo imployed. And we muſt learn to make them conduct us to matters of a ſublimer nature.</p>
+            <p n="3">3. In our common converſe. Chriſtianity doth not deprive us of our ſociableneſs, but whileſt we are in the World, we muſt converſe with thoſe who have an abode in it as well as we, but let us converſe with what ſorts we will, we muſt not forget our Chriſtianity.</p>
+            <p>In our converſe with thoſe who are good, we muſt mutually endeavour the promotion of grace both in our ſelves and them. Our words and actions ſhould aim at the glory of God, the honour of our Religion, and the encouragement of one another to labour for an increaſe in our Piety.</p>
+            <p>In our converſe with them who are maſtered by worſe qualities, we muſt teſtifie a diſlike of their miſcarria<g ref="char:EOLhyphen"/>ges by forbearing to imitate them in their miſtakes, by a ſeaſonable and rational diſcovery of the obliquity of their actions, according to our capacities and places. We ſhould ſtrive to divert from what is unbeſeeming, by a fit propoſal of ſomething more convenient.</p>
+            <pb n="13" facs="tcp:171634:14"/>
+            <p n="4">4. Under the variety of providential adminiſtrations. Gods diſpoſing of us into different capacities, doth call us to a more particular compoſure of our ſelves, moſt agreeable to ſuch a condition. When we are enriched with bleſſings we muſt be ſober, temperate, and meek, merciful, compaſſionate, and tender-hearted towards thoſe who are otherwiſe exerciſed. When we lie un<g ref="char:EOLhyphen"/>der troubles and calamities, we muſt beware of mur<g ref="char:EOLhyphen"/>muring and diſtruſt. We ſhould at ſuch times ſtrive to behave our ſelves with ſo much Evenneſs, that others may have occaſion from thence to obſerve much of a ſanctified frame in us. We ſhould be patient, ſubmiſſive, and contented. We ſhould learn to exerciſe more grace, and more eminently.</p>
+            <p n="5">5. In the general courſe of our lives we ſhould act in<g ref="char:EOLhyphen"/>offenſively towards all men: ſo as not to give them any juſt occaſion to be diſpleaſed with us. All the paſſages of our lives ſhould intimate an unwillingneſs to exaſpe<g ref="char:EOLhyphen"/>rate or provoke any men, unleſs our forbearance to ſin be that which will incenſe them. We ſhould be cau<g ref="char:EOLhyphen"/>tious of injuring others in their Names, Eſtates, or any other ways. We ſhould ſtrive to be generally good. We muſt learn to ſet a right eſtimate on godlineſs, ſo as to account it our Great, rather Onely gain. We muſt uſe Creatures with Moderation, and beware more eſpecially of being enſnared by the over-plentiful uſe of thoſe things which are good, commendable, and profita<g ref="char:EOLhyphen"/>ble, when uſed with a due obſervance of thoſe limits which are conſtituted by Neceſſity, Religion, or a lawful Recreation.</p>
+            <p>I ſhall now labour to perſwade you who profeſs Chri<g ref="char:EOLhyphen"/>ſtianity to obſerve the Apoſtles advice, <hi>viz. To be holy in all manner of converſation;</hi> and by urging theſe follow<g ref="char:EOLhyphen"/>ing conſiderations.</p>
+            <p n="1">1. How unbeſeeming it is for any men to live unan<g ref="char:EOLhyphen"/>ſwerably to that Profeſſion they bare the World in hand
+<pb n="14" facs="tcp:171634:15"/>with. Mens miſtakes and miſcarriages are moſt noto<g ref="char:EOLhyphen"/>rious when they diſſent from what they principally pre<g ref="char:EOLhyphen"/>tend. Should any one who pretends to Limning annex very conſiderable blemiſhes to his ſeveral Draughts, he might with reaſon be deemed much more fit to adhere to ſome other pretenſion. Such an one might (indeed) be accompliſhed to flouriſh at random with good Pencils, but 'tis pity he ſhould be reckoned amongſt them who are their Crafts-maſters.</p>
+            <p>When we profeſs to delineate Chriſt, and to give (as it were) a viſible draught of the Goſpel by our lives, is it not very unhandſome that our actions ſhould onely re<g ref="char:EOLhyphen"/>preſent the deformities of Satan, or that our demeanours ſhould manifeſt nothing, or at moſt, what is but little bet<g ref="char:EOLhyphen"/>ter then the obliquities of Hell? Our outward beha<g ref="char:EOLhyphen"/>viours ſhould be ſo ordered that men may have good reaſon from thence to conclude well of our more ſecret principles.</p>
+            <p>Whileſt we pretend to be inſtructed by the worthieſt Maſter, and to be Proſelytes to the moſt holy Inſtitu<g ref="char:EOLhyphen"/>tions, ſo long as we profeſs to imitate the beſt Preſidents and certifie the World that we have the moſt ſatisfacto<g ref="char:EOLhyphen"/>ry encouragements to the practice of our duties, as well as the moſt forcible Arguments to confirm our belief, we are concerned to live in a more exemplary and innocent manner then they who pretend no ſuch things. Why do you not inform the World that you are Heathens, or Atheiſts, rather then Chriſtians, if you reſolve that you practices and lives ſhall be no better then theirs?</p>
+            <p>That man is as ill ſhaped as may be, to pretend Alle<g ref="char:EOLhyphen"/>giance to an earthly Soveraign, who by his frequent Conſpiracies, and his manifold acts of Rebellion dot manifeſt a diſreſpect to his Perſon, and a contempt of his authority, whoever he be that is intemperate, or unclea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> covetous or malitious, proud or revengeful under the Profeſſion of the Chriſtian Faith, is as really diſreſpective
+<pb n="15" facs="tcp:171634:15"/>to his Creator, as he is to his Soveraign, who merits the ſevereſt penalties due to a Rebel.</p>
+            <p>It is a diſparagement beyond parallel to a Profeſſor of Chriſtianity, to have it truly ſaid of him that he makes no conſcience of his dealings; that he is maſtered by his luſts, that he is guided and governed by his paſſions; and that he makes no more uſe of his Religion then meer<g ref="char:EOLhyphen"/>ly to ſerve his ſelfiſh deſigns by it.</p>
+            <p n="2">2. What an affront you offer Chriſt, what contempt you ſhew to the Goſpel, and what occaſion you give the Enemies of the Goſpel to perſiſt in their enmity to it, and to open their mouths in deriſion of it, if you be not holy in all manner of converſation? Chriſt hath ſuffered moſt from his counterfeited friends, and Religion hath recei<g ref="char:EOLhyphen"/>ved the deepeſt wounds from the bad lives of its Pro<g ref="char:EOLhyphen"/>feſſors.</p>
+            <p>The miſdemeanours of them who have born the Chri<g ref="char:EOLhyphen"/>ſtian name, have writ Impoſtor on the Saviour of the World; and as long as you profeſs Chriſtianity without endeavouring to be holy in all manner of converſation, you do no leſs then approve that Inſcription, by ſubſcri<g ref="char:EOLhyphen"/>bing your own names to it.</p>
+            <p>Whoever he be who believes the Doctrines of the Goſpel as he ought, can never act with an equal diſagree<g ref="char:EOLhyphen"/>ment to them, with thoſe who neither aſſent to the Exi<g ref="char:EOLhyphen"/>ſtence of a Deity, nor the truth of a future Eſtate. For the ſound and rational belief of thoſe things, would en<g ref="char:EOLhyphen"/>gage the affections and all the powers of the ſoul, both by virtue of the intrinſick lovelineſs of the Objects of our Faith, and the tranſcendent worth and merits of the Inſtitutor of our Creed.</p>
+            <p>Malice it ſelf, were it ſtretched to the height, could not find out a more untoward way to affront our Saviour, than to profeſs his Faith, and then ſpit in his Face; to own his Goſpel in our words, and then to term it a Ro<g ref="char:EOLhyphen"/>mantick
+<pb n="16" facs="tcp:171634:16"/>Story by our lives. It were much better (I think) for men to ſpeak out, and tell the World plainly, that they judge him a Cheat, and all his Doctrines the idle Fanſies of an addle brain, then by their words to own him for their King, and preſently to recreate themſelves in rebelling againſt him.</p>
+            <p>How greatly may we be amazed to hear men make a very commendable Confeſſion of their Faith in Church, and preſently ſee them live at ſuch a rate, as to invite the very Turks and Heathens to dart forth their invectives againſt our Religion,<note place="margin">
+                  <hi>Trypho</hi> objects againſt the Chriſtians on this manner, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Juſt. Mart. Dial, cum Tryph.</hi>
+               </note> becauſe of their prophaneneſs? In what manner ought we to reſent the Infidels telling the World that they would become Chriſtians, would thoſe who profeſs Chriſtianity live better then they do?</p>
+            <p n="3">3. How great the danger is which you incur, if you do not meaſure your lives by your Profeſſion? Others may be damned at a cheaper or eaſier rate, then thoſe who will ſwim to Hell and deſtruction in nothing but the bloud of Jeſus.</p>
+            <p>If there can be an addition to ſorrow and miſery a<g ref="char:EOLhyphen"/>mongſt the tormented, ſurely he muſt have it for his ſhare, who has lived a wicked life, under manifold obli<g ref="char:EOLhyphen"/>gations to the contrary, and his own acknowledgments of them. To act againſt forcible ingagements, and in op<g ref="char:EOLhyphen"/>poſition to acknowledgments, doth as well expoſe to a more ſevere puniſhment, as it doth render inexcuſable for the fact.</p>
+            <p>The profeſſed Enemies of the Goſpel may eſcape more eaſily then thoſe who have made it their buſineſs to ſtab the common Saviour under a pretence of reſpect; for treachery doth always augment the crime.</p>
+            <p>It were better you had been amongſt them who were puniſhed in <hi>Sodom</hi> and <hi>Gomorrah,</hi> or that you had belched forth, <hi>Crucifie him, Crucifie him,</hi> amongſt the Jews, who
+<pb n="17" facs="tcp:171634:16"/>did it ignorantly, or that for the preſent you were Hea<g ref="char:EOLhyphen"/>thens and Infidels, then to be Chriſtians in name and no more: Becauſe the aggravating circumſtances which now increaſe the offence, could not have concurred to heigh<g ref="char:EOLhyphen"/>ten the guilt; and conſequently Juſtice would take care that the ſentence ſhould abate the extream rigour of the puniſhment.</p>
+            <p n="4">4. How ready thoſe who are prophane and debauched be, to be unholy in all their converſes, and this without any obligation at all? The propenſity of a different ſort to different actions and behaviours, ſhould be a ſtrong perſwaſive to them who have the advantage on their ſide. Should you diſcern any one ſo inconſiderate, as to throw away his Eſtate with pleaſure and ſpeed, and by that means ruine himſelf, could you not with eaſe ar<g ref="char:EOLhyphen"/>gue your ſelves into ſuch an humour as might diſpoſe you to ſeek after the improvement of your own fortunes with a more notable pleaſantneſs? And whence is it that when you obſerve others taking much pains to get their final confuſion ratified, you do not perſwade your ſelves to be more concerned to gain a greater certainty of your own ſafety.</p>
+            <p>Can others prevail with their mouths to belch forth Oaths and Curſes, can they even fall on their knees and wiſh they may be damned, that Satan may take them, and that Hell may ſwallow them up before their time? Can they lie and cheat, murder and commit adultery? Can they ſlander and defame? Can they work all ſorts of wickedneſs with greedineſs, and accompliſh diligent ſearches for to find out ſin? and have no obligation or incouragement to theſe things, unleſs it be the pleaſure of being denied happineſs, and excluded Heaven, unleſs it be the Recreation they ſhall take in reflecting on the toil they have put themſelves to, to gain the very next reſidences to the Prince of Devils? and cannot you per<g ref="char:EOLhyphen"/>ſwade
+<pb n="18" facs="tcp:171634:17"/>your ſelves to be active according to thoſe rules which will direct you to a much better iſſue? <hi>viz.</hi> to re<g ref="char:EOLhyphen"/>ſemble your God.</p>
+            <p n="3">3. The Text does certifie us in the laſt place, at what degree of holineſs we ought to aim. <hi>As he which hath called us is holy.</hi>
+            </p>
+            <p>The Apoſtle doth not mean that we ſhould dream of an abſolute, eſſential, independent, and infinite ho<g ref="char:EOLhyphen"/>lineſs; but that we ſhould conſtantly aim at higher at<g ref="char:EOLhyphen"/>tainments in a derivative holineſs, and that we ſhould be thriving in our ſpiritual eſtate. We are called on to add one grace to another, till we be made perfect. And St. <hi>Paul</hi> perſwades the <hi>Corinthians</hi> to perfect holineſs in the fear of God. We muſt not take up our reſt at ſome lower degrees, for (to uſe the Apoſtles words) <hi>we are not perfect men in Chriſt,</hi> at our firſt ſmaterings in Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>If holineſs be worth our pains and endeavours at all, then the more holineſs is without doubt more worthy. For additional degrees of what is valuable or deſirable, do merit an increaſe of our induſtry.</p>
+            <p>A proficiency in Holineſs does bring us more nigh to our primitive happineſs.</p>
+            <p>This makes us more to reſemble the Divine Purity. This ſets our hearts and our ſouls at liberty from their Slavery to Sin, and their inthraldom to Satan.</p>
+            <p>This preſerves us from thoſe Relapſes and Declines in which otherwiſe we ſhould be enſnared.</p>
+            <p>And this becomes a convictive Argument, to aſſure us of, and an excellent help to confirm us in the certainty of our being Holy.</p>
+            <p>How vigorouſly ought we to apply our ſelves to the obſervance of what concerns us ſo much as this advice of the Apoſtle doth?</p>
+            <p>Muſt we preſently give up the ghoſt? muſt we ſud<g ref="char:EOLhyphen"/>denly
+<pb n="19" facs="tcp:171634:17"/>have our laſt breath toſſed to and again in the empty Air? or muſt we forth-with approach the Tribu<g ref="char:EOLhyphen"/>nal of God, that there might be a ſurvey of our lives? Can we think we ſhould find any cauſe to complain of our ſtriving to be good?</p>
+            <p>Were we but to be exerciſed with ſome of Satans more rough aſſaults, could we fanſie our ſelves injurious to our ſelves, becauſe we had not given him thoſe ad<g ref="char:EOLhyphen"/>vantages againſt us which he ſought?</p>
+            <p>When we reflect on our lives, can it be our trouble that we can ſpie but few flaws in our paſt converſation? May not the increaſe of our bliſs perſwade us to ſtrive after an eminency in Holineſs? If there be degrees of happineſs in the preſence of God, he is the likelieſt perſon (I ſuppoſe) to be moſt glorious and happy hereafter, who is moſt holy here; and he cannot in reaſon be judged the leaſt happy at preſent.</p>
+            <p>Let us therefore have our ſouls over-aw'd by the di<g ref="char:EOLhyphen"/>vine Majeſty, and let us frequently renew in our ſelves the ſenſe and belief of Gods purity and omniſcience.</p>
+            <p>Let us ſtudy the life, and labour to have our hearts affected with the ſufferings of Chriſt.</p>
+            <p>Let us keep our eye connſtantly on the demeanour of him, who came to be an example for our lives, as well as a propitiation for our ſins.</p>
+            <p>Let us converſe much with our duties, and take heed of Cloyſtering up the Commands of our Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Let us not approach too nigh the borders of Sin, nor be too free with our Chriſtian liberty.</p>
+            <p>Let us be readier to amend faults in our ſelves, than to ſpie them in others.</p>
+            <p>Let us frequently and fervently implore Divine Aſſiſtance to help us to an improvement in grace.</p>
+            <p>And let it be one great buſineſs of our lives tho<g ref="char:EOLhyphen"/>roughly
+<pb n="20" facs="tcp:171634:18"/>to digeſt Divine Truths, and effectually to preſs our ſelves to the obſervance of them in our ſeveral ca<g ref="char:EOLhyphen"/>pacities.</p>
+            <p>By thus doing we may attain to anſwer the Apoſtles deſign, we ſhall be <hi>Holy in all manner of Converſa<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>Which God of his infinite mercy grant, for the me<g ref="char:EOLhyphen"/>rits of the Holy JESUS: To whom with the Fa<g ref="char:EOLhyphen"/>ther, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171634:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
